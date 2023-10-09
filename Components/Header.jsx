@@ -19,7 +19,6 @@ import token from "./token.png";
 import ecom from "./ecom.png";
 import Ham from "@/Components/ham.jsx";
 import X from "@/Components/x.jsx";
-import Header from "@/Components/Header";
 
 import { Lexend } from "next/font/google";
 const lexend = Lexend({ subsets: ["latin"] });

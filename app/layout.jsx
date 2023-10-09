@@ -1,7 +1,7 @@
 "use client";
 import "./globals.css";
 import { Inter } from "next/font/google";
-import Header from "@/Components/Header";
+
 import Feader, { Footer } from "@/Components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -19,7 +19,6 @@ export default function RootLayout({ children }) {
       </head>
       <body suppressHydrationWarning className=" relative z-[-9999]">
         <div className={`${inter.className} relative z-[-9999]`}>
-          <Header />
           {children}
           <Footer />
         </div>
