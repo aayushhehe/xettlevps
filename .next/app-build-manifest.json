@@ -1,0 +1,145 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/app/_not-found-f9757bbc0564a3ea.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/964-8979d24fac84d6a6.js",
+      "static/css/ed877dabc3a6a8c4.css",
+      "static/chunks/app/layout-bc34f0855172734e.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/chunks/964-8979d24fac84d6a6.js",
+      "static/css/c725bf2a594e6064.css",
+      "static/chunks/app/page-a92084b409e062cb.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/css/7fba930014651e77.css",
+      "static/chunks/app/about/page-851fa0b07e2db683.js"
+    ],
+    "/casino/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/chunks/964-8979d24fac84d6a6.js",
+      "static/css/8cc2a54426ebc164.css",
+      "static/chunks/app/casino/page-6f03e98fb81cea05.js"
+    ],
+    "/betting/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/chunks/964-8979d24fac84d6a6.js",
+      "static/css/753dfefaa7c1d388.css",
+      "static/chunks/app/betting/page-87e0019c50dbe920.js"
+    ],
+    "/crypto-token/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/css/ff545ab53ef48196.css",
+      "static/chunks/app/crypto-token/page-0f5686c3b3e0cacd.js"
+    ],
+    "/ecom/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/chunks/964-8979d24fac84d6a6.js",
+      "static/css/d218ebff11afe9ea.css",
+      "static/chunks/app/ecom/page-b430327544661b3b.js"
+    ],
+    "/fintech/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/chunks/964-8979d24fac84d6a6.js",
+      "static/css/880fb38f23dc58a8.css",
+      "static/chunks/app/fintech/page-78d958836755819b.js"
+    ],
+    "/crypto-excng/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/chunks/964-8979d24fac84d6a6.js",
+      "static/css/7414f67ba387ef81.css",
+      "static/chunks/app/crypto-excng/page-b3e76b046c24c390.js"
+    ],
+    "/games/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/chunks/964-8979d24fac84d6a6.js",
+      "static/css/4e977170cd93c944.css",
+      "static/chunks/app/games/page-8709a8a828d0ce09.js"
+    ],
+    "/payment/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/chunks/dc112a36-3b53e071b07ef314.js",
+      "static/chunks/616-f828145511b569a1.js",
+      "static/chunks/424-141e370124b4746a.js",
+      "static/chunks/964-8979d24fac84d6a6.js",
+      "static/chunks/app/payment/page-995c28847440fed9.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-888a22f3519bf072.js",
+      "static/chunks/fd9d1056-be4284c6839b84b2.js",
+      "static/chunks/864-f726f89afa4b43e2.js",
+      "static/chunks/main-app-fd210c8cbce1f256.js",
+      "static/css/43bef85391ec56ae.css",
+      "static/chunks/app/contact/page-cfd3789cea06972e.js"
+    ]
+  }
+}

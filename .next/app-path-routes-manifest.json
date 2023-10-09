@@ -1,0 +1,15 @@
+{
+  "/_not-found": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/about/page": "/about",
+  "/casino/page": "/casino",
+  "/betting/page": "/betting",
+  "/crypto-token/page": "/crypto-token",
+  "/ecom/page": "/ecom",
+  "/fintech/page": "/fintech",
+  "/crypto-excng/page": "/crypto-excng",
+  "/games/page": "/games",
+  "/payment/page": "/payment",
+  "/contact/page": "/contact"
+}
