@@ -64,9 +64,9 @@ const page = () => {
             </h1>
             <p className="py-3 opacity-75 lg:text-[1.1rem] xl:w-[90%]">
               Our skilled development team can help you create games that
-              require strategic thinking, precision, and expertise. Whether it's
-              classic board games like Chess, Carrom, or card games like Rummy
-              and Teen Patti, we have the know-how to build engaging,
+              require strategic thinking, precision, and expertise. Whether
+              it&apos;s classic board games like Chess, Carrom, or card games
+              like Rummy and Teen Patti, we have the know-how to build engaging,
               skill-based gaming experiences. Want to develop a virtual Horse
               Racing simulation? We can do that too.
             </p>
@@ -80,9 +80,9 @@ const page = () => {
             </h1>
             <p className="py-3 opacity-75 lg:text-[1.1rem] xl:w-[90%]">
               Our skilled development team can help you create games that
-              require strategic thinking, precision, and expertise. Whether it's
-              classic board games like Chess, Carrom, or card games like Rummy
-              and Teen Patti, we have the know-how to build engaging,
+              require strategic thinking, precision, and expertise. Whether
+              it&apos;s classic board games like Chess, Carrom, or card games
+              like Rummy and Teen Patti, we have the know-how to build engaging,
               skill-based gaming experiences. Want to develop a virtual Horse
               Racing simulation? We can do that too.
             </p>

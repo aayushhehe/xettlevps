@@ -118,8 +118,9 @@ const page = () => {
                   <p className="py-3 opacity-75 lg:text-[1.1rem]">
                     At Xettle, we understand the importance of simplicity and
                     efficiency in today&apos;s fast-paced world. That&apos;s why
-                    we offer a comprehensive "one-stop solution" designed to
-                    streamline your financial and software development needs.
+                    we offer a comprehensive &quot;one-stop solution&quot;
+                    designed to streamline your financial and software
+                    development needs.
                   </p>
                   <Link
                     href="/contact"
