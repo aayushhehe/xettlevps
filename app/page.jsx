@@ -1,3 +1,4 @@
+"use client";
 import React, { lazy } from "react";
 import Link from "next/link";
 import { Lexend } from "next/font/google";

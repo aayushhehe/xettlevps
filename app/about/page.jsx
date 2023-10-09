@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import "./about.css";
 import Lottie from "@/Components/aboutus.jsx";

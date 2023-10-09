@@ -1,9 +1,8 @@
-import React from 'react'
+"use client";
+import React from "react";
 
 const gradiantbtn = () => {
-  return (
-    <div>gradiantbtn</div>
-  )
-}
+  return <div>gradiantbtn</div>;
+};
 
-export default gradiantbtn
+export default gradiantbtn;
