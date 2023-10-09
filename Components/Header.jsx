@@ -5,7 +5,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-import "./header.css";
+// import "./header.css";
 
 import Logo from "app/logo.png";
 import betting from "./betting.png";
