@@ -13,10 +13,12 @@ import tailored from "./tailored.png";
 import Contour from "@/Components/contour.jsx";
 import Herolottie from "@/Components/herolottie.jsx";
 import Herobg from "@/Components/herobg.jsx";
+import Header from "@/Components/Header";
 
 const page = () => {
   return (
     <main className="bg-[#f9fbff] relative z-[-9999]">
+      <Header />
       <section
         id="hero"
         className="relative min-h-[100vh] w-[100vw] pt-[20%] px-[3%] grid grid-cols-1 md:pt-[10%] lg:grid-cols-2 lg:place-content-center lg:pt-[5%] xl:px-[10%]"
