@@ -1,15 +1,3 @@
 {
-  "/_not-found": "app/_not-found.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/page": "app/page.js",
-  "/betting/page": "app/betting/page.js",
-  "/about/page": "app/about/page.js",
-  "/casino/page": "app/casino/page.js",
-  "/crypto-token/page": "app/crypto-token/page.js",
-  "/crypto-excng/page": "app/crypto-excng/page.js",
-  "/ecom/page": "app/ecom/page.js",
-  "/games/page": "app/games/page.js",
-  "/fintech/page": "app/fintech/page.js",
-  "/payment/page": "app/payment/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/page": "app/page.js"
 }
