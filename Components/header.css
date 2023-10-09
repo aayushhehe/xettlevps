@@ -1,0 +1,26 @@
+.nav-links li:hover .dropdown {
+  display: block;
+  transition: all 0.5s;
+  opacity: 1;
+}
+
+.nav-bg {
+  background: radial-gradient(
+    231% 135.8% at 0.9% 2.98%,
+    rgba(132, 132, 132, 0.2) 50%,
+    rgba(43, 43, 43, 0) 100%
+  );
+  backdrop-filter: blur(20px);
+}
+
+@media (max-width: 1024px) {
+  .lgnav {
+    top: 0vh;
+    background: #000;
+    display: block;
+    padding-top: 25%;
+    color: #ffffff;
+    padding-left: 7%;
+    padding-right: 0;
+  }
+}
